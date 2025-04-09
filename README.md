@@ -18,50 +18,17 @@ Me chamo Eduardo Pereira Lima, tenho 23 anos e moro em fortaleza-Ce. Atualmente 
 
 ### 🤖 Linguagens e Tecnologias
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; padding-top: 10px;">
-  <img 
-      alt="Python" 
-      title="Python"
-      width="45px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-  />
-  <img 
-      alt="SQL Server" 
-      title="SQL Server"
-      width="45px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
-  />
-  <img 
-      alt="Scikit-learn" 
-      title="Scikit-learn / Machine Learning"
-      width="45px" 
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
-  />
-  <img 
-      alt="Power BI" 
-      title="Power BI"
-      width="45px" 
-      src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
-  />
-  <img 
-      alt="Apache Spark" 
-      title="Apache Spark"
-      width="45px" 
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/512px-Apache_Spark_logo.svg.png" 
-  />
-  <img 
-      alt="Jupyter Notebook" 
-      title="Jupyter Notebook"
-      width="45px" 
-      src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" 
-  />
-  <img 
-      alt="Docker" 
-      title="Docker"
-      width="45px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-  />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" style="margin-right: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="45" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="45" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="45" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark" alt="Apache Spark" height="45" style="margin-right: 20px; vertical-align: middle;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="45" style="margin-right: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" style="margin-right: 20px;" />
+</p>
+
+
 
 
 
