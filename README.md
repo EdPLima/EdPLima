@@ -69,16 +69,3 @@ I also work with **Generative AI and RAG applications**, integrating LLMs, embed
 
 ---
 
-## Featured Projects
-
-### Credit Risk Modeling
-Production-oriented credit risk modeling system covering feature engineering, model development, experiment tracking, model registry, batch inference, monitoring, and automated retraining.
-
-**Stack:** `Python` `Pandas` `LightGBM` `MLflow` `Docker` `PostgreSQL` `Airflow` `Power BI`
-
-### Real-Time Fraud Detection
-End-to-end fraud detection platform built on Databricks using a Medallion Architecture, distributed feature engineering, MLflow model lifecycle management, real-time Model Serving, monitoring, and Champion–Challenger evaluation.
-
-**Stack:** `Databricks` `PySpark` `Delta Lake` `MLflow` `Model Serving` `CI/CD`
-
----
