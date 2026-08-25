@@ -45,12 +45,6 @@ I work across the end-to-end ML lifecycle, from data analysis and feature engine
 
 ---
 
-## Core Expertise
-
-`Machine Learning` · `MLOps` · `Credit Risk` · `Fraud Detection` · `Generative AI`
-
----
-
 ## What I Build
 
 * Production-oriented classification models
