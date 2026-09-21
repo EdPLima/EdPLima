@@ -1,10 +1,10 @@
 # Eduardo Pereira
 
-### Data Scientist | Machine Learning Engineer
+### Cientista de Dados | Engenheiro de Machine Learning
 
-Data Scientist with **3+ years of experience in Data & AI**, building machine learning solutions for **credit risk, fraud detection, and financial services**.
+Cientista de Dados com **mais de 3 anos de experiência em Dados e Inteligência Artificial**, desenvolvendo soluções de machine learning para **risco de crédito, detecção de fraudes e serviços financeiros**.
 
-I work across the end-to-end ML lifecycle, from data analysis and feature engineering to deployment, monitoring, and automated retraining. I also develop **Generative AI and RAG applications** using LLMs, embeddings, and vector databases.
+Atuo em todo o ciclo de vida de Machine Learning, desde a análise de dados e engenharia de atributos até implantação, monitoramento e retreinamento automatizado de modelos. Também desenvolvo **aplicações de IA Generativa e RAG** utilizando LLMs, embeddings e bancos de dados vetoriais.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardopl" target="_blank">
@@ -17,7 +17,7 @@ I work across the end-to-end ML lifecycle, from data analysis and feature engine
 
 ---
 
-## Tech Stack
+## Stack Tecnológica
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="42" height="42"/>
@@ -45,11 +45,11 @@ I work across the end-to-end ML lifecycle, from data analysis and feature engine
 
 ---
 
-## What I Build
+## O Que Eu Desenvolvo
 
-* Production-oriented classification models
-* Credit risk and fraud detection solutions
-* Automated training and retraining pipelines
-* Model registry, monitoring, and CI/CD workflows
-* Large-scale data pipelines with Spark and Databricks
-* RAG applications with LLMs and vector databases
+* Modelos de classificação orientados à produção
+* Soluções para risco de crédito e detecção de fraudes
+* Pipelines automatizados de treinamento e retreinamento
+* Fluxos de registro, monitoramento e CI/CD de modelos
+* Pipelines de dados em larga escala com Spark e Databricks
+* Aplicações RAG com LLMs e bancos de dados vetoriais
